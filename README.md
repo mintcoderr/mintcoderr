@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mintcoderr
+ 👋 Hi, I’m @mintcoderr
 
 <!---
 mintcoderr/mintcoderr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
