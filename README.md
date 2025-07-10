@@ -1,6 +1,2 @@
  👋 Hi, I’m @mintcoderr
-
-<!---
-mintcoderr/mintcoderr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Check my old GH profile here (Mintcoder)[https://github.com/destinyjunior]
